@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap" rel="stylesheet">
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+        integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" /> -->
+    <link rel="stylesheet" href="/css/style.css">
+    <title>Codificador</title>
+    <link rel="icon" href="/imagens/keys-icon.ico">
+
+</head>
+
+<body>
+
+    <header>
+        <a href="index.html">
+            <img class="logo" src="/imagens/Vector.png" alt="logo alura">
+        </a>
+    </header>
+
+    <div class="container">
+
+        <div class="sec1">
+            <textarea id="texto" placeholder="Entre com o texto aqui..."></textarea>
+            <div class="validar">
+                <p> <i class="fa-solid fa-circle-exclamation"></i> Apenas letras maisculas e sem acento!</p>
+                <div class="botoes">
+                    <button class="btnEncriptar">Codificar</button>
+                    <button class="btnDecencriptar">Decodificar</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="sec2">
+            <div class="resultado">
+                <img class="imagem" src="/imagens/resultado-bg.png" alt="imagen encriptacion">
+                <!-- <h3>Nenhuma mensagem foi criptografada</h3>
+                <p>Digite o texto que deseja criptografar</p> -->
+            </div>
+
+        </div>
+    </div>
+
+    <script src="/script/script.js"></script>
+    <script src="/script/app.js"></script>
+
+</body>
+
+</html>
