@@ -1,5 +1,5 @@
 
-# Challenge ONE Sprint 01: Construa um decodificador de texto com Javascript + HTML + CSS
+# Challenge ONE: Construa um decodificador de texto com Javascript + HTML + CSS
 
 ### Seja bem vindo ao projeto do Decodificador de texto! Passos fundamentais:
 Sugestões de implementação, Cursos e Formações. Para esse desafio, você pode usar HTML e Javascript sem o uso de frameworks.
