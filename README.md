@@ -4,7 +4,7 @@
 ### Seja bem vindo ao projeto do Decodificador de texto! Passos fundamentais:
 Sugestões de implementação, Cursos e Formações. Para esse desafio, você pode usar HTML e Javascript sem o uso de frameworks.
 
-Link para design o figma da pagina: [Figma Decodificaor](https://www.figma.com/file/tvFEYhVfZTjdJ5P24RGV21/Alura-Challenge---Desafio-1---L%C3%B3gica?node-id=2%3A213&t=1VKw5rAZrTi8JrAL-0)
+Link para design o figma da pagina: [Figma Decodificador](https://www.figma.com/file/tvFEYhVfZTjdJ5P24RGV21/Alura-Challenge---Desafio-1---L%C3%B3gica?node-id=2%3A213&t=1VKw5rAZrTi8JrAL-0)
 
 ---
 
