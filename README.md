@@ -7,27 +7,16 @@ Sugestões de implementação, Cursos e Formações. Para esse desafio, você po
 Link para design o figma da pagina: [Figma Decodificador](https://www.figma.com/file/tvFEYhVfZTjdJ5P24RGV21/Alura-Challenge---Desafio-1---L%C3%B3gica?node-id=2%3A213&t=1VKw5rAZrTi8JrAL-0)
 
 ---
+## Demonstração: 
 
-## Como listar o meu projeto neste Challenge?
+<img alt="Build-and-Deploy-Ecommerce-Website-With-HTML-CSS-JavaScript" width="100%" src="https://github.com/Kleysn/decodificador-challege-alura/blob/main/gif/Anima%C3%A7%C3%A3o.gif" />
+
 ---
+<h2 align = "center" >Contatos: </h2>
 
-1) Publique o projeto no GitHub
-2) Publica no GitHub Pages: [Como colocar seu projeto no ar com o Github Pages?](https://www.alura.com.br/artigos/como-colocar-projeto-no-ar-com-github-pages) 
-3) Utilize o tópico:
-     - Turma 4: **challengeonedecodificador4**
-
-
-Vá na aba "Sobre" ou "About" do seu projeto no menu lateral que fica na esquerda dentro do repositório no GitHub
-Adicione a tag "**challengeonedecodificador3**" ou "**challengeonedecodificador4**" dependendo de qual turma você pertence.
-
-
-## Como realizar a entrega final do meu projeto?
----
-
-4) Preenche o formulário de entrega com o **link do projeto publicado com GitHub Pages**
-🔹 [Link para o formulário](https://lp.alura.com.br/alura-latam-entrega-challenge-one-portugues)
-
-5) Acesse seu e-mail e terá a sua Badge Exclusiva do Desafio 🏆
-6) Não se esqueça de publicar um link ou vídeo do seu projeto no Linkedin! 🏁
-
-    <a href="https://www.linkedin.com/in/kleiton-santos-ab37b61bb/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
+<div align="center"> 
+  <a href="https://www.instagram.com/kleysn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/8AhB8aWU" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto: kleiotnsantosn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kleiton-santos-ab37b61bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
